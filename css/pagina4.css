@@ -1,0 +1,10 @@
+* {
+    --principal:rgb(35 35 35);
+    --fondo_parragos: rgb(47 47 47);
+    --titulo_background: rgb(82, 82, 82);
+    color: var(---white);
+    font-size: 20px;
+}
+body {
+    background-color: rgb(35 35 35);
+}
